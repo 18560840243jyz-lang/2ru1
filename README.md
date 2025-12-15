@@ -1,1 +1,18 @@
-# 2ru1
+<!DOCTYPE html>
+<html>
+<head>
+    <title>微博API测试网站</title>
+    <style>
+        body { font-family: Arial; text-align: center; padding: 50px; }
+        .box { background: #f5f5f5; padding: 30px; border-radius: 10px; max-width: 600px; margin: 0 auto; }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <h1>微博API测试应用</h1>
+        <p>用于学习微博开放平台API接口调用和数据分析</p>
+        <p>网站地址：https://18560840243jyz-lang.github.io/2ru1/</p>
+        <p>© 2024 个人学习使用</p>
+    </div>
+</body>
+</html># 2ru1
